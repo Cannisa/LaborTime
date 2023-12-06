@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847787092494",
+    "project_id": "labor-ti",
+    "storage_bucket": "labor-ti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847787092494:android:c112bf2b9b30559729aa5f",
+        "android_client_info": {
+          "package_name": "labortime.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFS_gWJXRNdlIKvH_fGrt-fFa7smPR_TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
